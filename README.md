@@ -2,12 +2,12 @@
 <h3 align="center">✨A passionate full stack developer from India✨</h3>
 
 
-### TECHNOLOGY STACK:
+### TECHNOLOGY STACK
 **Backend & CMS**<br>&emsp;PHP, Laravel, CodeIgnitor, WordPress, Moodle, Node.js, SailsJS, Python, Django <br>
 **Frontend**<br>&emsp; Vue.js, React.js, Angular, jQuery, JavaScript, HTML5, CSS3, Bootstrap, Material, Tailwind, Figma <br>
 **Server** <br>&emsp;AWS, Digital Ocean, Azure, Linux, Apache, Other managed servers <br>
 
-### TOOLS:
+### TOOLS
 
 **Version Controlling** <br>&emsp;Github, Gitlab, Bitbucket <br>
 **Web Services and APIs** <br>&emsp;Postman <br>
